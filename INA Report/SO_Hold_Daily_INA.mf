@@ -1,0 +1,7 @@
+run "SO_Hold_Daily_Report_hf1.eq"
+run "SO_Hold_Daily_Report_hf2.eq"
+run "SO_Hold_Daily_Report_hf3.eq"
+run "SO_Hold_Daily_Report_hf4.eq"
+run "SO_Hold_Daily_Report.eq"
+rreplace SO_Hold_Daily_Report
+view SO_Hold_Daily_Report
